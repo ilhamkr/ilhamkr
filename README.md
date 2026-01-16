@@ -28,6 +28,5 @@
 
 ---
 
-## 📈 GitHub Stats
+![Profile views](https://komarev.com/ghpvc/?username=ilhamkr&style=for-the-badge&color=blue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhamkr&show_icons=true&count_private=true&theme=transparent)
