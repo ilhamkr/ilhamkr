@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ilham Krhan
 
-**Software developer focused on backend and full-stack development.**
+**Software Developer focused on Web and Backend development, continuously learning and improving full-stack skills.**
 
 ## 🛠️ Technologies
 
