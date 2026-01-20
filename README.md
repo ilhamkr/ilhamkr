@@ -2,7 +2,7 @@
 
 **Software Developer focused on Web and Backend development, continuously learning and improving full-stack skills.**
 
-## 🛠️ Technologies
+## 🛠️ Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
